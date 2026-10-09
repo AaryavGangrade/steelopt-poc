@@ -1,0 +1,10 @@
+id,project,width,height,grade,thickness,allow_rotation
+P01,A,2300,900,S355,12,True
+P02,A,1900,900,S355,12,True
+P03,A,1500,700,S355,12,True
+P04,A,1400,700,S355,12,True
+P05,A,900,700,S355,12,True
+P06,B,1500,700,S355,12,True
+P07,B,1500,700,S355,10,True
+P08,B,1500,700,S355,12,True
+P09,B,1700,800,S355,12,True

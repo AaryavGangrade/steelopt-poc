@@ -1,0 +1,7 @@
+id,project,width,height,grade,thickness,kind,status,traceable,unit_cost_per_m2
+PL-A01,A,6000,2000,S355,12,plate,available,True,6400
+OC-A01,A,1800,900,S355,12,offcut,available,True,6400
+OC-A02,A,2200,1200,S355,10,offcut,available,True,5500
+OC-A03,A,1900,1000,S355,12,offcut,quarantined,True,6400
+OC-A04,A,2000,1000,S355,12,offcut,available,False,6400
+OC-A05,A,1900,950,S275,12,offcut,available,True,6000
